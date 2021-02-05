@@ -1,0 +1,6 @@
+framework module Pods_module14task {
+  umbrella header "Pods-module14task-umbrella.h"
+
+  export *
+  module * { export * }
+}
